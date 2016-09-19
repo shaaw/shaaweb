@@ -1,0 +1,39 @@
+body {
+  padding: 5px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: blue;
+}
+
+
+
+.dire{
+	color: red;
+}
+
+.radiant{
+	color: green;
+}
+
+.par{
+	background-color: #DFDFDF;
+
+}
+
+.impar{
+	background-color: #EFEFEF;
+
+
+
+}
+
+
+.Ganado{
+	color: green;
+}
+
+.Perdido{
+	color: red;
+}
